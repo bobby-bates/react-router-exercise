@@ -1,0 +1,33 @@
+.breadcrumbs {
+  background-color: #DAFFFF
+  ;
+}
+
+.top-bar-left a {
+  padding: 0 0.5rem;
+}
+
+.tom {
+  height: 10%;
+  width: 10%;
+}
+
+.ron-container {
+  height: 60%;
+  width: 60%;
+}
+
+.ron-greeting {
+  /*height: 75%;
+  width: 75%;*/
+}
+
+.ron-goodbye {
+  /*height: 75%;
+  width: 75%;*/
+}
+
+.ron-custom {
+  height: 30%;
+  width: 30%;
+}
